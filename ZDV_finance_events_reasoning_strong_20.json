@@ -1,0 +1,142 @@
+[
+  {
+    "query": "Neden gıda enflasyonu yükseldi?",
+    "when": "kuraklık döneminde",
+    "key": "sebze ve meyve rekoltesi",
+    "value": "ciddi oranda azaldı",
+    "so": "arz daraldı ve fiyatlar hızla yükseldi"
+  },
+  {
+    "query": "Neden ithalat maliyetleri yükseldi?",
+    "when": "pandemiyle birlikte limanlarda yoğunluk yaşandığında",
+    "key": "konteyner navlun ücretleri",
+    "value": "3 katına çıktı",
+    "so": "ithalat maliyetleri ciddi şekilde yükseldi"
+  },
+  {
+    "query": "Neden tüketici harcamaları azaldı?",
+    "when": "faizler arttırıldığında",
+    "key": "kredi kartı taksit sayısı",
+    "value": "azaltıldı ve kredi maliyetleri yükseldi",
+    "so": "tüketici harcamaları geriledi"
+  },
+  {
+    "query": "Neden enerji ithalatı arttı?",
+    "when": "yurtiçi doğalgaz üretimi azaldığında",
+    "key": "elektrik talebi",
+    "value": "yaz aylarında zirve yaptı",
+    "so": "enerji ithalatı arttı"
+  },
+  {
+    "query": "Neden ihracat performansı düştü?",
+    "when": "hedef ülkelerde resesyon başladığında",
+    "key": "sipariş iptalleri",
+    "value": "art arda geldi",
+    "so": "ihracat performansı düşüşe geçti"
+  },
+  {
+    "query": "Neden kamu borçlanması yükseldi?",
+    "when": "vergi gelirleri salgın döneminde azaldığında",
+    "key": "bütçe açığı",
+    "value": "yıllık hedefin üzerine çıktı",
+    "so": "kamu borçlanması yükseldi"
+  },
+  {
+    "query": "Neden döviz talebi arttı?",
+    "when": "TL değer kaybetmeye başladığında",
+    "key": "yatırımcı güveni",
+    "value": "sarsıldı ve sermaye çıkışı başladı",
+    "so": "döviz talebi arttı"
+  },
+  {
+    "query": "Neden inşaat maliyetleri yükseldi?",
+    "when": "çimento ve demir fiyatları global ölçekte arttığında",
+    "key": "girdi maliyetleri",
+    "value": "belirgin şekilde yükseldi",
+    "so": "inşaat maliyetleri arttı"
+  },
+  {
+    "query": "Neden işsizlik oranı yükseldi?",
+    "when": "KOBİ kredilerine erişim zorlaştığında",
+    "key": "küçük işletmeler",
+    "value": "personel çıkarmaya başladı",
+    "so": "işsizlik oranı arttı"
+  },
+  {
+    "query": "Neden yatırımcılar altına yöneldi?",
+    "when": "bölgesel çatışmalar artış gösterdiğinde",
+    "key": "güvenli liman ihtiyacı",
+    "value": "öncelik kazandı",
+    "so": "yatırımcılar altına yöneldi"
+  },
+  {
+    "query": "Neden konut fiyatları yükseldi?",
+    "when": "arsa arzı sınırlı kaldığında",
+    "key": "talep",
+    "value": "kredi kampanyalarıyla arttı",
+    "so": "konut fiyatları hızla yükseldi"
+  },
+  {
+    "query": "Neden lojistik gecikmeleri arttı?",
+    "when": "gümrük sisteminde yazılım sorunları yaşandığında",
+    "key": "işlem süreleri",
+    "value": "normalin 2 katına çıktı",
+    "so": "lojistik gecikmeleri yaşandı"
+  },
+  {
+    "query": "Neden yabancı yatırım azaldı?",
+    "when": "hukuki güvenceler zayıf algılandığında",
+    "key": "yatırım ortamı",
+    "value": "riskli bulundu",
+    "so": "yabancı yatırımcı gelmedi"
+  },
+  {
+    "query": "Neden sağlık harcamaları arttı?",
+    "when": "pandemi sonrası kronik hastalıklar arttığında",
+    "key": "ilaç ve tedavi talepleri",
+    "value": "yüksek oranlara ulaştı",
+    "so": "sağlık harcamaları yükseldi"
+  },
+  {
+    "query": "Neden tarım üretimi azaldı?",
+    "when": "girdi fiyatları kontrolsüz yükseldiğinde",
+    "key": "çiftçi kar marjı",
+    "value": "düşük kaldı ve üretimden vazgeçildi",
+    "so": "tarım üretimi azaldı"
+  },
+  {
+    "query": "Neden kredi kullanımı azaldı?",
+    "when": "bankalar risk primi yüksek gruplara kredi vermemeye başladığında",
+    "key": "bireysel krediler",
+    "value": "daraldı",
+    "so": "kredi kullanımı azaldı"
+  },
+  {
+    "query": "Neden yoksulluk oranı arttı?",
+    "when": "gıda ve enerji fiyatları aynı anda yükseldiğinde",
+    "key": "asgari ücretin alım gücü",
+    "value": "geriledi",
+    "so": "yoksulluk oranı yükseldi"
+  },
+  {
+    "query": "Neden sanayi üretimi düştü?",
+    "when": "enerji kesintileri sıklaştığında",
+    "key": "üretim bantları",
+    "value": "sık sık durdu",
+    "so": "sanayi üretimi düşüş yaşadı"
+  },
+  {
+    "query": "Neden banka bilançoları zarar yazdı?",
+    "when": "kredi geri dönüşleri azaldığında",
+    "key": "batık kredi oranı",
+    "value": "yükseldi",
+    "so": "banka bilançoları zarar etti"
+  },
+  {
+    "query": "Neden bireysel tasarruflar azaldı?",
+    "when": "yaşam maliyeti arttığında",
+    "key": "hanehalkı harcamaları",
+    "value": "gelirlerin önüne geçti",
+    "so": "bireysel tasarruflar azaldı"
+  }
+]
